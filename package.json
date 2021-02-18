@@ -1,0 +1,27 @@
+{
+  "name": "firebase-functions-test-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shalbert94/firebase-functions-test-example.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shalbert94/firebase-functions-test-example/issues"
+  },
+  "homepage": "https://github.com/shalbert94/firebase-functions-test-example#readme",
+  "dependencies": {
+    "firebase-admin": "9.5.0",
+    "firebase-functions": "3.13.1"
+  },
+  "devDependencies": {
+    "firebase-functions-test": "0.2.3",
+    "mocha": "8.3.0"
+  }
+}
